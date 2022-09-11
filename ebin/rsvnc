@@ -1,0 +1,5 @@
+#/bin/sh
+stopvnc
+sleep 1
+startvnc
+exit 0
