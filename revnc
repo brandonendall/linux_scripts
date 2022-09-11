@@ -1,0 +1,6 @@
+#!/bin/bash
+#END
+stopvnc
+sleep 1
+startvnc
+exit 0
